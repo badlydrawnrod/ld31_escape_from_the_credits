@@ -1,0 +1,180 @@
+﻿<credits title="Escape from the Credits">
+  <section title='Game Design'>
+    <job title='Lead Game Designer' collectable='true'>
+      <name>Orson Carte</name>
+    </job>
+    <job title='Assistant Game Designer'>
+      <name collectable='true'>Raynor Schein</name>
+    </job>
+    <job title='Level Designer'>
+      <name>Paige Turner</name>
+    </job>
+  </section>
+  <section title='Production'>
+    <job title='Executive Producers'>
+      <name>J R Hartley</name>
+      <name collectable='true'>H R H Queen Elizabeth</name>
+    </job>
+    <job title='Producer'>
+      <name collectable='true'>Nick Plum</name>
+    </job>
+    <job title='Production Assistants'>
+      <name>Anna Prentice</name>
+      <name>Lauren Order</name>      
+    </job>
+    <job title='Production Manager'>
+      <name>Al Fresco</name>
+    </job>
+    <job title='Production Coordinator' collectable='true'>
+      <name>Chris P Bacon</name>
+    </job>
+  </section>
+  <section title='Programming'>
+    <job title='Lead Programmer'>
+      <name>Al E Katz</name>
+    </job>
+    <job title='Assistant Programmers'>
+      <name collectable='true'>Luke Warm</name>
+      <name>Ophelia Payne</name>
+      <name>Russell Leaves</name>
+      <name>Barb Dwyer</name>
+      <name>Ben Dover</name>
+    </job>
+    <job title='Engine Programmer'>
+      <name>Rich Feller</name>
+    </job>
+    <job title='Graphics Progammer' collectable='true'>
+      <name>Lewis N Clarke</name>
+    </job>
+    <job title='GUI Programmer'>
+      <name>Polly Esther</name>
+    </job>
+    <job title='Tools Programmer'>
+      <name collectable='true'>Matt Tress</name>
+    </job>
+    <job title='Mac / Linux Conversion'>
+      <name>Eileen Dover</name>
+      <name>Bob Apple</name>
+      <name>Ken D Cain</name>
+    </job>
+  </section>
+  <section title='Characters and Rigging'>
+    <job title='Chief Model Builder'>
+      <name>Lance Boyle</name>
+    </job>
+    <job title='Model Builder'>
+      <name>Peg Legge</name>
+    </job>
+    <job title='Rigging Technicians' collectable='true'>
+      <name>Justin Time</name>
+      <name>Jed I Knight</name>
+      <name>Ray Gunn</name>
+    </job>
+    <job title='Animators'>
+      <name>Max Powers</name>
+      <name>Jenny Rates</name>
+      <name>S Parker</name>
+    </job>
+  </section>
+  <section title='Music and Audio'>
+    <job title='Audio Design' collectable='true'>
+      <name>Owen Cash</name>
+    </job>
+    <job title='Additional Audio Design'>
+      <name>Phil Rupp</name>
+      <name>Wanda Rinn</name>
+    </job>
+    <job title='Voice Casting'>
+      <name>Joe King</name>
+    </job>
+    <job title='Music'>
+      <name>Wiley Fox</name>
+    </job>
+  </section>
+  <section title='Voices (in order of appearance)'>
+    <role role='Hiro Protagonist' actor='You!!!' collectable='true'/>
+    <role role='Frankenstein' actor='Toby Juggs'/>
+    <role role='Samson' actor='R U Kidden'/>
+    <role role='Delilah' actor='Minnie Cooper' collectable='true'/>
+    <role role='Chuck Norris' actor='Drew P Drawers'/>
+    <role role='Albert Einstein' actor='Seymour Butts'/>
+    <role role='King George III' actor='Richard Head'/>
+    <role role='Screaming Lord Sutch' actor='Bill Ding' collectable='true'/>
+    <role role='Queen Elizabeth I' actor='Jacqueline Hyde'/>
+    <role role='Romeo' actor='I P Freely'/>
+    <role role='Juliet' actor='Alice Band'/>
+  </section>
+  <section title='Art' collectable='true'>
+    <job title='Art Director'>
+      <name collectable='true'>Walter Melon</name>
+    </job>
+    <job title='Assistant Art Director'>
+      <name>Gerinda Carr</name>
+    </job>
+    <job title='Background Art'>
+      <name>Ivor Bigun</name>
+    </job>
+    <job title='Additional Background Art'>
+      <name>Dusty Coleman</name>
+      <name>Emma Ness</name>
+    </job>
+    <job title='Graphic Artists'>
+      <name>Ted E Baer</name>
+      <name>Rhoda Book</name>
+      <name>Ivana Tinkle</name>
+      <name>Don Key</name>
+    </job>
+  </section>
+  <section title='Testers'>
+    <triple a='Joseph Smelibotham' b='S Tinker' c='Anita Pu' collectable='true'/>
+    <triple a='Emma Diaper' b='A Cryer' c='Ivor Squirtle' collectable='true'/>
+    <triple a='Miss E Drawers' b='P Pants' c='Junior Smelly' collectable='true'/>
+  </section>
+  <section title='Finance'>
+    <job title='Chief Accountant'>
+      <name collectable='true'>Robin Banks</name>
+    </job>
+  </section>
+  <section title='Development Tools' collectable='true'>
+    <job title='Game Engine'>
+      <name>Unity 4.6</name>
+    </job>
+    <job title='Programming Language'>
+      <name>C#</name>
+    </job>
+    <job title='Development Environment'>
+      <name>Visual Studio 2013</name>
+    </job>
+    <job title='Progammer Art'>
+      <name collectable='true'>Paint.Net</name>
+      <name collectable='true'>ID: 10t</name>
+    </job>
+    <job title='Sounds'>
+      <name collectable='true'>BFXR</name>
+    </job>
+    <job title='Music'>
+      <name collectable='true'>Abundant Music</name>
+      <name collectable='true'>MuseScore</name>
+    </job>
+  </section>
+  <section title="Special Thanks">
+    <job title='Patient Spouse'>
+      <name>Jessica</name>
+    </job>
+    <job title='Dutiful Daughter'>
+      <name>Lorne</name>
+    </job>
+    <job title='Cat'>
+      <name>Marillion</name>
+    </job>
+    <job title='Callout and Standby'>
+      <name>Nicholas Ellingham</name>
+    </job>
+  </section>
+  <section title='Escape from the Credits' collectable='true'>
+    <single>Made in 48 hours for Ludum Dare 31</single>
+    <single>by Badly Drawn Rod</single>
+    <single>Fin</single>
+  </section>
+  <win/>
+</credits>
